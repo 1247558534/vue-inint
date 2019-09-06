@@ -11,6 +11,7 @@
        <div>{{$store.state.changeNum}}</div>
        <div>{{isShow}}</div>
        <div>{{getChangeNum}}</div>
+       <div>新增内容，测试合并请求</div>
     </div>
     <!-- <router-link to="/other">点击</router-link> -->
        

@@ -12,6 +12,7 @@
        <div>{{isShow}}</div>
        <div>{{getChangeNum}}</div>
        <div>新增内容，测试合并请求</div>
+       <div>今天星期一</div>
     </div>
     <!-- <router-link to="/other">点击</router-link> -->
        
